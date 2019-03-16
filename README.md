@@ -14,3 +14,7 @@ Notebooks with exercises based on book:
 ## Optimisation for Machine Learning
 
 Notebooks with various algorithms and  for optimising multi-dimensional functions used in Machine Learning Algorithms (SGD etc.)
+
+## NLP
+
+Notebooks with excercises from Natural Language Processing course on Poznan University of Technology.
