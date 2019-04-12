@@ -12,10 +12,10 @@ import pandas as pd
 from matplotlib import pyplot as plt
 
 # Importing the dataset
-dataset = pd.read_csv('Market_Basket_Optimisation.csv', header = None)
+dataset = pd.read_csv('shopping-data.csv', header = None)
 transactions = []
 for i in range(0,dataset.shape[0]):
-    transactions.append([str(dataset.values[i,j]) for j in range(0,dataset.shape[1])])
+    transactions.append([str(dataset.values[i,j]) for j in range(0,dataset.shape[1]) if str(dataset.values[i,j])!='nan'])
     
 # Training Apriori on the dataset
 from apyori import apriori
