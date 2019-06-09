@@ -9,7 +9,7 @@ Notebooks from laboratories on university - Artificial Inteligence.
 ## ML&NN(O'Reilly)
 Notebooks with exercises based on book:
 
-"Uczenie Maszynowe z u¿yciem Scikit-Learn i TensorFlow" Aurelien Geron, Helion, ISBN 978-83-283-4373-3
+"Uczenie Maszynowe z uzyciem Scikit-Learn i TensorFlow" Aurelien Geron, Helion, ISBN 978-83-283-4373-3
 
 ## Optimisation for Machine Learning
 
